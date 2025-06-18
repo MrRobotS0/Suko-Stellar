@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 // Nome do repositório no GitHub; ajuste conforme o seu
-const repoName = "sukostellar";
+const repoName = "sistemasolar";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
